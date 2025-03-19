@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuyende\\BanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{671365AE-8335-4694-9826-1622793461B1}|BanSach\\BanSach.csproj|d:\\chuyende\\bansach\\bansach\\areas\\admin\\views\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{671365AE-8335-4694-9826-1622793461B1}|BanSach\\BanSach.csproj|solutionrelative:bansach\\areas\\admin\\views\\khachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671365AE-8335-4694-9826-1622793461B1}|BanSach\\BanSach.csproj|D:\\Chuyende\\BanSach\\bansach\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{671365AE-8335-4694-9826-1622793461B1}|BanSach\\BanSach.csproj|solutionrelative:bansach\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KHACHHANG.cshtml",
+              "DocumentMoniker": "D:\\Chuyende\\BanSach\\BanSach\\Areas\\Admin\\Views\\KHACHHANG.cshtml",
+              "RelativeDocumentMoniker": "BanSach\\Areas\\Admin\\Views\\KHACHHANG.cshtml",
+              "ToolTip": "D:\\Chuyende\\BanSach\\BanSach\\Areas\\Admin\\Views\\KHACHHANG.cshtml",
+              "RelativeToolTip": "BanSach\\Areas\\Admin\\Views\\KHACHHANG.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T04:34:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Chuyende\\BanSach\\BanSach\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "BanSach\\Models\\Model1.edmx",
+              "ToolTip": "D:\\Chuyende\\BanSach\\BanSach\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "BanSach\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-06T11:31:59.525Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
